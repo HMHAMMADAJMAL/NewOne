@@ -1,4 +1,18 @@
 demand is a file for git status 
 i need this to cokjjsit 2 
 ccd,cd,csssssssssjfdkjdkfdlfsssmsnwkdkjdwkdksdksdkskdksdskdkddjks
-i had made some old fffffff
+
+i had made some olddksdksdkdkkdfk
+
+old
+new
+This commit is mistakenly added to home branch home branch
+so we uses cherrypic to get it back to main  
+steps are 
+write git log 
+to get commit hash 
+checkout to your selected branch 
+write 
+git cheery pick 
+git chery-pick your comit hash here 
+now your commit is added into yur m main branch 
